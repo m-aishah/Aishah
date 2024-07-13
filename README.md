@@ -63,7 +63,7 @@ Getting started is super easy! Just follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/wordLang.git
+    git clone https://github.com/m-aishah/wordLang
     cd wordLang
     ```
 
