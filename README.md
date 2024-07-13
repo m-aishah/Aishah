@@ -1,4 +1,4 @@
-![wordLang Logo](path/to/logo.png)
+![wordLang Logo](./Logo.png)
 
 # wordLang 🎉
 
@@ -86,12 +86,7 @@ Replace `sourcefile.txt` with the path to your wordLang code.
 
 Here's a quick example of wordLang in action:
 ```
-Declare x to be 5.
-Set x to 10.
-If x is greater than 5:
-    Show the value of x.
-Otherwise:
-    Show the value of 0.
+Declare x to be 5. Set x to 10. If x is greater than 5: Show the value of x. Otherwise: Show the value of 0.
 ```
 
 ## Parser Design 🧠
