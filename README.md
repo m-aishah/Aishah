@@ -77,10 +77,10 @@ Getting started is super easy! Just follow these steps:
 To run your wordLang program, use this command:
 
 ```bash
-./wordLang sourcefile.txt
+./wordLang sourcefile.wlang
 ```
 
-Replace `sourcefile.txt` with the path to your wordLang code.
+Replace `sourcefile.wlang` with the path to your wordLang code.
 
 ### Example
 
